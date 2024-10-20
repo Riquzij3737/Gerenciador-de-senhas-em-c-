@@ -1,0 +1,11 @@
+C:\Users\henri\Desktop\slanostudioeuvejooqeufaço\slanostudioeuvejooqeufaço\obj\Debug\slanostudioeuvejooqeufaço.csproj.AssemblyReference.cache
+C:\Users\henri\Desktop\slanostudioeuvejooqeufaço\slanostudioeuvejooqeufaço\obj\Debug\slanostudioeuvejooqeufaço.Properties.Resources.resources
+C:\Users\henri\Desktop\slanostudioeuvejooqeufaço\slanostudioeuvejooqeufaço\obj\Debug\slanostudioeuvejooqeufaço.csproj.GenerateResource.cache
+C:\Users\henri\Desktop\slanostudioeuvejooqeufaço\slanostudioeuvejooqeufaço\obj\Debug\slanostudioeuvejooqeufaço.csproj.CoreCompileInputs.cache
+C:\Users\henri\Desktop\slanostudioeuvejooqeufaço\slanostudioeuvejooqeufaço\obj\Debug\slanostudioeuvejooqeufaço.Form2.resources
+C:\Users\henri\Desktop\slanostudioeuvejooqeufaço\slanostudioeuvejooqeufaço\obj\Debug\slanostudioeuvejooqeufaço.Form1.resources
+C:\Users\henri\Desktop\slanostudioeuvejooqeufaço\slanostudioeuvejooqeufaço\bin\Debug\Gerenciador de senhas proprio.exe.config
+C:\Users\henri\Desktop\slanostudioeuvejooqeufaço\slanostudioeuvejooqeufaço\bin\Debug\Gerenciador de senhas proprio.exe
+C:\Users\henri\Desktop\slanostudioeuvejooqeufaço\slanostudioeuvejooqeufaço\bin\Debug\Gerenciador de senhas proprio.pdb
+C:\Users\henri\Desktop\slanostudioeuvejooqeufaço\slanostudioeuvejooqeufaço\obj\Debug\Gerenciador de senhas proprio.exe
+C:\Users\henri\Desktop\slanostudioeuvejooqeufaço\slanostudioeuvejooqeufaço\obj\Debug\Gerenciador de senhas proprio.pdb

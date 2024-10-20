@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\henri\\Desktop\\slanostudioeuvejooqeufa\u00E7o\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{81D986AE-54E7-474F-B6FE-13F755BCB014}|slanostudioeuvejooqeufa\u00E7o\\slanostudioeuvejooqeufa\u00E7o.csproj|c:\\users\\henri\\desktop\\slanostudioeuvejooqeufa\u00E7o\\slanostudioeuvejooqeufa\u00E7o\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{81D986AE-54E7-474F-B6FE-13F755BCB014}|slanostudioeuvejooqeufa\u00E7o\\slanostudioeuvejooqeufa\u00E7o.csproj|solutionrelative:slanostudioeuvejooqeufa\u00E7o\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|slanostudioeuvejooqeufa\u00E7o||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81D986AE-54E7-474F-B6FE-13F755BCB014}|slanostudioeuvejooqeufa\u00E7o\\slanostudioeuvejooqeufa\u00E7o.csproj|C:\\Users\\henri\\Desktop\\slanostudioeuvejooqeufa\u00E7o\\slanostudioeuvejooqeufa\u00E7o\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81D986AE-54E7-474F-B6FE-13F755BCB014}|slanostudioeuvejooqeufa\u00E7o\\slanostudioeuvejooqeufa\u00E7o.csproj|solutionrelative:slanostudioeuvejooqeufa\u00E7o\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81D986AE-54E7-474F-B6FE-13F755BCB014}|slanostudioeuvejooqeufa\u00E7o\\slanostudioeuvejooqeufa\u00E7o.csproj|C:\\Users\\henri\\Desktop\\slanostudioeuvejooqeufa\u00E7o\\slanostudioeuvejooqeufa\u00E7o\\Form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81D986AE-54E7-474F-B6FE-13F755BCB014}|slanostudioeuvejooqeufa\u00E7o\\slanostudioeuvejooqeufa\u00E7o.csproj|solutionrelative:slanostudioeuvejooqeufa\u00E7o\\Form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81D986AE-54E7-474F-B6FE-13F755BCB014}|slanostudioeuvejooqeufa\u00E7o\\slanostudioeuvejooqeufa\u00E7o.csproj|C:\\Users\\henri\\Desktop\\slanostudioeuvejooqeufa\u00E7o\\slanostudioeuvejooqeufa\u00E7o\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{81D986AE-54E7-474F-B6FE-13F755BCB014}|slanostudioeuvejooqeufa\u00E7o\\slanostudioeuvejooqeufa\u00E7o.csproj|solutionrelative:slanostudioeuvejooqeufa\u00E7o\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81D986AE-54E7-474F-B6FE-13F755BCB014}|slanostudioeuvejooqeufa\u00E7o\\slanostudioeuvejooqeufa\u00E7o.csproj|C:\\Users\\henri\\Desktop\\slanostudioeuvejooqeufa\u00E7o\\slanostudioeuvejooqeufa\u00E7o\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81D986AE-54E7-474F-B6FE-13F755BCB014}|slanostudioeuvejooqeufa\u00E7o\\slanostudioeuvejooqeufa\u00E7o.csproj|solutionrelative:slanostudioeuvejooqeufa\u00E7o\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81D986AE-54E7-474F-B6FE-13F755BCB014}|slanostudioeuvejooqeufa\u00E7o\\slanostudioeuvejooqeufa\u00E7o.csproj|C:\\Users\\henri\\Desktop\\slanostudioeuvejooqeufa\u00E7o\\slanostudioeuvejooqeufa\u00E7o\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{81D986AE-54E7-474F-B6FE-13F755BCB014}|slanostudioeuvejooqeufa\u00E7o\\slanostudioeuvejooqeufa\u00E7o.csproj|solutionrelative:slanostudioeuvejooqeufa\u00E7o\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81D986AE-54E7-474F-B6FE-13F755BCB014}|slanostudioeuvejooqeufa\u00E7o\\slanostudioeuvejooqeufa\u00E7o.csproj|C:\\Users\\henri\\Desktop\\slanostudioeuvejooqeufa\u00E7o\\slanostudioeuvejooqeufa\u00E7o\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81D986AE-54E7-474F-B6FE-13F755BCB014}|slanostudioeuvejooqeufa\u00E7o\\slanostudioeuvejooqeufa\u00E7o.csproj|solutionrelative:slanostudioeuvejooqeufa\u00E7o\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81D986AE-54E7-474F-B6FE-13F755BCB014}|slanostudioeuvejooqeufa\u00E7o\\slanostudioeuvejooqeufa\u00E7o.csproj|C:\\Users\\henri\\Desktop\\slanostudioeuvejooqeufa\u00E7o\\slanostudioeuvejooqeufa\u00E7o\\Form2.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81D986AE-54E7-474F-B6FE-13F755BCB014}|slanostudioeuvejooqeufa\u00E7o\\slanostudioeuvejooqeufa\u00E7o.csproj|solutionrelative:slanostudioeuvejooqeufa\u00E7o\\Form2.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81D986AE-54E7-474F-B6FE-13F755BCB014}|slanostudioeuvejooqeufa\u00E7o\\slanostudioeuvejooqeufa\u00E7o.csproj|c:\\users\\henri\\desktop\\slanostudioeuvejooqeufa\u00E7o\\slanostudioeuvejooqeufa\u00E7o\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\henri\\Desktop\\slanostudioeuvejooqeufa\u00E7o\\slanostudioeuvejooqeufa\u00E7o\\Form1.cs",
+              "RelativeDocumentMoniker": "slanostudioeuvejooqeufa\u00E7o\\Form1.cs",
+              "ToolTip": "C:\\Users\\henri\\Desktop\\slanostudioeuvejooqeufa\u00E7o\\slanostudioeuvejooqeufa\u00E7o\\Form1.cs",
+              "RelativeToolTip": "slanostudioeuvejooqeufa\u00E7o\\Form1.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAwEQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T23:20:39.129Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "slanostudioeuvejooqeufa\u00E7o",
+              "DocumentMoniker": "C:\\Users\\henri\\Desktop\\slanostudioeuvejooqeufa\u00E7o\\slanostudioeuvejooqeufa\u00E7o\\slanostudioeuvejooqeufa\u00E7o.csproj",
+              "RelativeDocumentMoniker": "slanostudioeuvejooqeufa\u00E7o\\slanostudioeuvejooqeufa\u00E7o.csproj",
+              "ToolTip": "C:\\Users\\henri\\Desktop\\slanostudioeuvejooqeufa\u00E7o\\slanostudioeuvejooqeufa\u00E7o\\slanostudioeuvejooqeufa\u00E7o.csproj",
+              "RelativeToolTip": "slanostudioeuvejooqeufa\u00E7o\\slanostudioeuvejooqeufa\u00E7o.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-07T12:52:13.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\henri\\Desktop\\slanostudioeuvejooqeufa\u00E7o\\slanostudioeuvejooqeufa\u00E7o\\App.config",
+              "RelativeDocumentMoniker": "slanostudioeuvejooqeufa\u00E7o\\App.config",
+              "ToolTip": "C:\\Users\\henri\\Desktop\\slanostudioeuvejooqeufa\u00E7o\\slanostudioeuvejooqeufa\u00E7o\\App.config",
+              "RelativeToolTip": "slanostudioeuvejooqeufa\u00E7o\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-10-07T12:10:07.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\henri\\Desktop\\slanostudioeuvejooqeufa\u00E7o\\slanostudioeuvejooqeufa\u00E7o\\Form2.cs",
+              "RelativeDocumentMoniker": "slanostudioeuvejooqeufa\u00E7o\\Form2.cs",
+              "ToolTip": "C:\\Users\\henri\\Desktop\\slanostudioeuvejooqeufa\u00E7o\\slanostudioeuvejooqeufa\u00E7o\\Form2.cs",
+              "RelativeToolTip": "slanostudioeuvejooqeufa\u00E7o\\Form2.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAE4AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T19:06:37.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\henri\\Desktop\\slanostudioeuvejooqeufa\u00E7o\\slanostudioeuvejooqeufa\u00E7o\\Form1.cs",
+              "RelativeDocumentMoniker": "slanostudioeuvejooqeufa\u00E7o\\Form1.cs",
+              "ToolTip": "C:\\Users\\henri\\Desktop\\slanostudioeuvejooqeufa\u00E7o\\slanostudioeuvejooqeufa\u00E7o\\Form1.cs [Design]",
+              "RelativeToolTip": "slanostudioeuvejooqeufa\u00E7o\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T23:20:22.271Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\henri\\Desktop\\slanostudioeuvejooqeufa\u00E7o\\slanostudioeuvejooqeufa\u00E7o\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "slanostudioeuvejooqeufa\u00E7o\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\henri\\Desktop\\slanostudioeuvejooqeufa\u00E7o\\slanostudioeuvejooqeufa\u00E7o\\Form1.Designer.cs",
+              "RelativeToolTip": "slanostudioeuvejooqeufa\u00E7o\\Form1.Designer.cs",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAawLgAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T18:29:10.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form2.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\henri\\Desktop\\slanostudioeuvejooqeufa\u00E7o\\slanostudioeuvejooqeufa\u00E7o\\Form2.Designer.cs",
+              "RelativeDocumentMoniker": "slanostudioeuvejooqeufa\u00E7o\\Form2.Designer.cs",
+              "ToolTip": "C:\\Users\\henri\\Desktop\\slanostudioeuvejooqeufa\u00E7o\\slanostudioeuvejooqeufa\u00E7o\\Form2.Designer.cs",
+              "RelativeToolTip": "slanostudioeuvejooqeufa\u00E7o\\Form2.Designer.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T19:06:42.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\henri\\Desktop\\slanostudioeuvejooqeufa\u00E7o\\slanostudioeuvejooqeufa\u00E7o\\Form2.cs",
+              "RelativeDocumentMoniker": "slanostudioeuvejooqeufa\u00E7o\\Form2.cs",
+              "ToolTip": "C:\\Users\\henri\\Desktop\\slanostudioeuvejooqeufa\u00E7o\\slanostudioeuvejooqeufa\u00E7o\\Form2.cs [Design]",
+              "RelativeToolTip": "slanostudioeuvejooqeufa\u00E7o\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T19:06:32.404Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\henri\\Desktop\\slanostudioeuvejooqeufa\u00E7o\\slanostudioeuvejooqeufa\u00E7o\\Program.cs",
+              "RelativeDocumentMoniker": "slanostudioeuvejooqeufa\u00E7o\\Program.cs",
+              "ToolTip": "C:\\Users\\henri\\Desktop\\slanostudioeuvejooqeufa\u00E7o\\slanostudioeuvejooqeufa\u00E7o\\Program.cs",
+              "RelativeToolTip": "slanostudioeuvejooqeufa\u00E7o\\Program.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAqwHwAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T19:13:56.678Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
